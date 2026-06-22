@@ -1,6 +1,6 @@
 # Hi there, I'm Biswajeet Jena 👋
 
-###Ai Driven Full-Stack Developer & Jr. SDET at Cognizant
+### Ai Driven Full-Stack Developer & Jr. SDET at Cognizant
 I specialize in building scalable, high-performance AI wrappers and web applications, ensuring their reliability through robust testing. Whether I'm crafting seamless user experiences with React and Next.js, architecting backends with Node.js, or integrating AI capabilities, I love turning complex problems into elegant code.
 
 ---
