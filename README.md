@@ -42,6 +42,6 @@ I specialize in building scalable, high-performance AI wrappers and web applicat
 
 Are you a business looking to build a scalable web application, or do you want to talk about full-stack architecture and automated testing? Let's connect!
 
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+* 📧 **Email:** [biswajeetjena2003@gmail.com](biswajeetjena2003@gmail.com)
+* 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/biswajeet-jena-86bb27212/)
+  
