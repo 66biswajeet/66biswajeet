@@ -44,4 +44,12 @@ Are you a business looking to build a scalable web application, or do you want t
 
 * 📧 **Email:** [biswajeetjena2003@gmail.com](biswajeetjena2003@gmail.com)
 * 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/biswajeet-jena-86bb27212/)
+
+  ### 🚀 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/66biswajeet/ParallelAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=66biswajeet&repo=ParallelAI&theme=tokyonight&show_owner=false" alt="ParallelAI Card" height="120" />
+  </a>
+</p>
   
